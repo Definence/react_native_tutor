@@ -90,3 +90,24 @@ const styles = StyleSheet.create({
   title="Press Me"
 />
 ```
+
+#### ScrollView
+```
+<ScrollView>
+  lots of stuff
+</ScrollView>
+```
+
+#### ViewPagerAndroid
+```
+<ViewPagerAndroid
+  style={styles.viewPager}
+  initialPage={0}>
+  <View style={styles.pageStyle} key="1">
+    <Text>First page</Text>
+  </View>
+  <View style={styles.pageStyle} key="2">
+    <Text>Second page</Text>
+  </View>
+</ViewPagerAndroid>
+```
