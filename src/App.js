@@ -9,6 +9,7 @@ import Dimensions from './components/Dimensions'
 import Flexbox from './components/Flexbox'
 import Input from './components/Input'
 import BasicButton from './components/BasicButton'
+import Touchables from './components/Touchables'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -31,14 +32,15 @@ export default class App extends Component<Props> {
         {/* <Text style={styles.instructions}>{instructions}</Text> */}
 
         {/* <Image source={picUrl} style={{width: 193, height: 110}}/> */}
-        {/* <Greeting name='Vasil' /> */}
-        {/* <Blink text='This is some text' /> */}
+        {/* <Greeting name='Vasil'/> */}
+        {/* <Blink text='This is some text'/> */}
         {/* <Header>This is a header</Header> */}
         {/* <Paragraph>This is a paragraph</Paragraph> */}
-        {/* <Dimensions /> */}
-        {/* <Flexbox /> */}
-        {/* <Input /> */}
-        <BasicButton />
+        {/* <Dimensions/> */}
+        {/* <Flexbox/> */}
+        {/* <Input/> */}
+        {/* <BasicButton/> */}
+        {/* <Touchables/> */}
       </View>
     )
   }

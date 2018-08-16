@@ -19,6 +19,15 @@ react-native init projectName
 <Button /> - a button
 ```
 
+Custom buttons:
+```
+<TouchableHighlight />
+<TouchableOpacity />
+<TouchableNativeFeedback />
+<TouchableWithoutFeedback />
+<TouchableHighlight />
+```
+
 #### They should be imported like so:
 ```
 import {Text, View} from 'react-native'
