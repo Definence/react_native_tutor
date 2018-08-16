@@ -1,6 +1,5 @@
 import React, {Component} from 'react'
-import {Text} from 'react-native'
-import {StyleSheet} from 'react-native'
+import {Text, StyleSheet} from 'react-native'
 
 export default class Header extends Component {
   render() {

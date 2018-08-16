@@ -15,6 +15,8 @@ react-native init projectName
 <View></View> - like a div or span, it can be used as a container for other components
 <Text></Text> - a text tag
 <Image></Image> - an image tag
+<TextInput /> - an input
+<Button /> - a button
 ```
 
 #### They should be imported like so:
@@ -23,6 +25,8 @@ import {Text, View} from 'react-native'
 ```
 
 ## Other imported objects from 'react-native'
+
+To see more details try to see appropriate component if exists
 
 #### Platform:
 ```
@@ -49,9 +53,31 @@ const styles = StyleSheet.create({
 })
 ```
 
-They should be used like so:
+#### TextInput
 ```
-<Text style={styles.welcome}>Welcome to React Native!!!</Text>
+<TextInput
+  style={{height: 40}}
+  placeholder="Type here to translate!"
+  onChangeText={(text) => this.setState({text})}
+/>
 ```
 
-####
+#### Button
+```
+<Button
+  onPress={() => {
+    Alert.alert('You tapped the button!');
+  }}
+  title="Press Me"
+/>
+```
+
+#### Alert
+```
+<Button
+  onPress={() => {
+    Alert.alert('You tapped the button!');
+  }}
+  title="Press Me"
+/>
+```

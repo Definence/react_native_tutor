@@ -7,6 +7,8 @@ import Paragraph from './components/shared/Paragraph'
 import Header from './components/shared/Header'
 import Dimensions from './components/Dimensions'
 import Flexbox from './components/Flexbox'
+import Input from './components/Input'
+import BasicButton from './components/BasicButton'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -35,6 +37,8 @@ export default class App extends Component<Props> {
         {/* <Paragraph>This is a paragraph</Paragraph> */}
         {/* <Dimensions /> */}
         {/* <Flexbox /> */}
+        {/* <Input /> */}
+        <BasicButton />
       </View>
     )
   }
