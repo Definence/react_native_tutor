@@ -12,7 +12,7 @@ react-native init projectName
 
 ## Tags
 ```
-<View></View> - like a div or span
+<View></View> - like a div or span, it can be used as a container for other components
 <Text></Text> - a text tag
 <Image></Image> - an image tag
 ```
@@ -34,6 +34,11 @@ const instructions = Platform.select({
 })
 ```
 
+And using:
+```
+<Text>{instructions}</Text>
+```
+
 #### StyleSheet:
 ```
 const styles = StyleSheet.create({
@@ -48,3 +53,5 @@ They should be used like so:
 ```
 <Text style={styles.welcome}>Welcome to React Native!!!</Text>
 ```
+
+####
