@@ -10,6 +10,8 @@ import Flexbox from './components/Flexbox'
 import Input from './components/Input'
 import BasicButton from './components/BasicButton'
 import Touchables from './components/Touchables'
+import BasicScrollView from './components/BasicScrollView'
+import Pager from './components/Pager'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -41,6 +43,8 @@ export default class App extends Component<Props> {
         {/* <Input/> */}
         {/* <BasicButton/> */}
         {/* <Touchables/> */}
+        {/* <BasicScrollView/> */}
+        {/* <Pager/> */}
       </View>
     )
   }
