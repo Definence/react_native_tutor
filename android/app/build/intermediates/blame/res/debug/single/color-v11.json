@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

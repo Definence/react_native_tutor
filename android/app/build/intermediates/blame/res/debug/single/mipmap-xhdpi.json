@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/milestep/code/react_native_tutor/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/home/milestep/code/todo/react-native-client/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/milestep/code/react_native_tutor/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/home/milestep/code/todo/react-native-client/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    }
+]

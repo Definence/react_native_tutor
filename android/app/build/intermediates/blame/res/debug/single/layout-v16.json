@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/res/layout-v16/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/layout-v16/notification_template_custom_big.xml",
+        "source": "/home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/res/layout-v16/notification_template_custom_big.xml"
+    }
+]

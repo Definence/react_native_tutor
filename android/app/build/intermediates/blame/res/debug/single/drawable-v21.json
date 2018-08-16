@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

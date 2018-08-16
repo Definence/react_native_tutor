@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_ad2ba882d22b105cf93cb5734f141fc050d682b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/f9c3ddc3ab181ef345cf79dbd67e6eb4d0435433/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_cb237713150382dafce2124bd008d0f55d52ec9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/f9c3ddc3ab181ef345cf79dbd67e6eb4d0435433/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_cf91a2df2ae6cf51e1713030ac245a86a65b8963.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/ae5cdf5159a8cabe55749b086b168dee3a2ace44/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_cac33d9b0d1bee3ca29024cae9e9ed8dd32f9b20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_769f9023cfa2e46a363ca92b6444403487f5e331.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/c824671a91c2c2f87ccb03c166c6adee98f70829/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_c6317b5cd5a7936d88f438cd439322401b7819cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_ce1fbc4199d0d73d7fc111aa566cf666d0243457.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_bfde915ae639dd788834e203b41f17caa9b19371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/0b9a770781e333b12c06ccb6e6e3517ad801eac8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_51c576bc39f02a13bf26496f19af192000d434cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_f1cb63197ae6092460165252da83b0d9e6b7fe2a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/c60e1e44cbbebc36240922b89bc0dac933079be4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_8f47a51d1c99932625eef9383c6739a9f8b8b850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/45bad1184355ea6cbfc5bbe4c032edda74b7593c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_bc46190ac4a605eda4dd6ff99609f73ffe94ba39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/a1a2954b3c3ab3ba041526128701dafb5114d898/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_d498b8f344b73d8fb62e32b9320a4fb54d766f77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_002e51e71f464f564c4f026d16fb4e4a52f4a2ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/3a87799f964364302c6f08a2df868c0cef878022/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_953deded48926be5f150f73f70aef7e2e71f7b19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/fb5350d671fa52b1feb6b34cd7b6b0e6a7de384a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_09a076b47defd3a1303f9e90b327c8db59524419.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/1a62b5acc8205578f72200051a00cbb7da149bb3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_da4c17d89134c968b77eecf23484cb0b09455547.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/ff6df3bef68b0049f54b06a6abafdb08344cfda0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_2d2b4b883bcf1f485c071954214acc58042f37c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/97977928ca84815f8e116287295cd5a969dacec8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_e7f00a3d199619a5c56f054d83b5091613f0be15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/7e152391a6f6ce28d6014d37af71e1fe1f50a642/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_db3d4bb223069bb367d504f80a75b5487c5febb2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/bbdd0c0e72bfd8d2af43a5aab6aaeba2c1878f3e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_d8a1b4aea8c6b26bc08493d0e8b9f60624954bca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/26847bbecc469632752e651f37f10801a871b8d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_d5ee6c2fd9c2a4857c17317041149dffa87afc23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/266a9320dce6de72bd90ea3efcc619382f86741d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_de239868e6f951b2d4d94e7144431ea6afee924d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_b844f1dc2514fcec893bce2b49ae5676921648a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/7955412b1ebe957c49cae606f787eace2411a06c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_2b3a778e0d5f8ffd6d0676da4ece0ddfb10002b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/classes_01e8920666054115efeff55f6b5896e1e221ae99.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_15fa65cfb0fc93c325b904e3aac16695cbd6567f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_f0144a56ca5026ee99f60e10a53721cf848294f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_7342e5d0ba1c639029674a2787be54a2380cb334.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/milestep/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/milestep/code/todo/react-native-client/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_57a95474819f7f887a17211632d39317dfd1be79.jar" />
+    </item>
+
+</items>

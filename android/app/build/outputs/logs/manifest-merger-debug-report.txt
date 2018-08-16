@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:2:5-23
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.56.0] /home/milestep/.android/build-cache/d4e2f7aa607e42b55bdf6e1bc8bbe16f263bd8a6/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.facebook.react:react-native:0.56.0] /home/milestep/.android/build-cache/d4e2f7aa607e42b55bdf6e1bc8bbe16f263bd8a6/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/milestep/.android/build-cache/1a62b5acc8205578f72200051a00cbb7da149bb3/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/milestep/.android/build-cache/3a87799f964364302c6f08a2df868c0cef878022/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /home/milestep/.android/build-cache/266a9320dce6de72bd90ea3efcc619382f86741d/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/milestep/.android/build-cache/c824671a91c2c2f87ccb03c166c6adee98f70829/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/milestep/.android/build-cache/ff6df3bef68b0049f54b06a6abafdb08344cfda0/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/milestep/.android/build-cache/7955412b1ebe957c49cae606f787eace2411a06c/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/milestep/.android/build-cache/7e152391a6f6ce28d6014d37af71e1fe1f50a642/output/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/milestep/.android/build-cache/45bad1184355ea6cbfc5bbe4c032edda74b7593c/output/AndroidManifest.xml:24:5-28:19
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/milestep/.android/build-cache/0b9a770781e333b12c06ccb6e6e3517ad801eac8/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/milestep/.android/build-cache/eca1d1fc18b49d7dad01add95c3cc7b28b5e8f4c/output/AndroidManifest.xml:2:3-17
+	android:label
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:allowBackup
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:icon
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:theme
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.todo.MainActivity
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.react:react-native:0.56.0] /home/milestep/.android/build-cache/d4e2f7aa607e42b55bdf6e1bc8bbe16f263bd8a6/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /home/milestep/.android/build-cache/1a62b5acc8205578f72200051a00cbb7da149bb3/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/milestep/.android/build-cache/3a87799f964364302c6f08a2df868c0cef878022/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /home/milestep/.android/build-cache/266a9320dce6de72bd90ea3efcc619382f86741d/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/milestep/.android/build-cache/c824671a91c2c2f87ccb03c166c6adee98f70829/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/milestep/.android/build-cache/ff6df3bef68b0049f54b06a6abafdb08344cfda0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/milestep/.android/build-cache/7955412b1ebe957c49cae606f787eace2411a06c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/milestep/.android/build-cache/7e152391a6f6ce28d6014d37af71e1fe1f50a642/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /home/milestep/.android/build-cache/45bad1184355ea6cbfc5bbe4c032edda74b7593c/output/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /home/milestep/.android/build-cache/26847bbecc469632752e651f37f10801a871b8d4/output/AndroidManifest.xml:14:5-16:41
+MERGED from [com.facebook.fresco:fresco:1.9.0] /home/milestep/.android/build-cache/bbdd0c0e72bfd8d2af43a5aab6aaeba2c1878f3e/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.9.0] /home/milestep/.android/build-cache/97977928ca84815f8e116287295cd5a969dacec8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.9.0] /home/milestep/.android/build-cache/c60e1e44cbbebc36240922b89bc0dac933079be4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.9.0] /home/milestep/.android/build-cache/ae5cdf5159a8cabe55749b086b168dee3a2ace44/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.9.0] /home/milestep/.android/build-cache/fb5350d671fa52b1feb6b34cd7b6b0e6a7de384a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.9.0] /home/milestep/.android/build-cache/a1a2954b3c3ab3ba041526128701dafb5114d898/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.3.0] /home/milestep/.android/build-cache/0b9a770781e333b12c06ccb6e6e3517ad801eac8/output/AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] /home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /home/milestep/.android/build-cache/1a62b5acc8205578f72200051a00cbb7da149bb3/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/milestep/.android/build-cache/3a87799f964364302c6f08a2df868c0cef878022/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /home/milestep/.android/build-cache/266a9320dce6de72bd90ea3efcc619382f86741d/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /home/milestep/.android/build-cache/c824671a91c2c2f87ccb03c166c6adee98f70829/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /home/milestep/.android/build-cache/ff6df3bef68b0049f54b06a6abafdb08344cfda0/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /home/milestep/.android/build-cache/7955412b1ebe957c49cae606f787eace2411a06c/output/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /home/milestep/.android/build-cache/7e152391a6f6ce28d6014d37af71e1fe1f50a642/output/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /home/milestep/.android/build-cache/86bc129d31a2617846ccd9ef49349d242c8ffff6/output/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] /home/milestep/.android/build-cache/281860970a3c89b7924f6a771512dcf981e18ef6/output/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/milestep/.android/build-cache/45bad1184355ea6cbfc5bbe4c032edda74b7593c/output/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/milestep/.android/build-cache/45bad1184355ea6cbfc5bbe4c032edda74b7593c/output/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /home/milestep/.android/build-cache/45bad1184355ea6cbfc5bbe4c032edda74b7593c/output/AndroidManifest.xml:26:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/milestep/code/react_native_tutor/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

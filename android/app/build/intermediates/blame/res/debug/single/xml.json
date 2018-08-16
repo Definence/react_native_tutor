@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/milestep/code/todo/react-native-client/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/milestep/.android/build-cache/f9c3ddc3ab181ef345cf79dbd67e6eb4d0435433/output/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/milestep/code/react_native_tutor/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/milestep/.android/build-cache/d4e2f7aa607e42b55bdf6e1bc8bbe16f263bd8a6/output/res/xml/preferences.xml"
+    }
+]
