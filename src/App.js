@@ -3,6 +3,10 @@ import {Platform, Text, View, Image} from 'react-native'
 import {styles} from './style/components/app'
 import Greeting from './components/Greeting'
 import Blink from './components/Blink'
+import Paragraph from './components/shared/Paragraph'
+import Header from './components/shared/Header'
+import Dimensions from './components/Dimensions'
+import Flexbox from './components/Flexbox'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -20,14 +24,17 @@ export default class App extends Component<Props> {
 
     return (
       <View style={styles.container}>
-        <Image source={picUrl} style={{width: 193, height: 110}}/>
+        <Text style={styles.welcome}>Welcome to React Native!</Text>
+        {/* <Text style={styles.instructions}>To get started, edit App.js</Text> */}
+        {/* <Text style={styles.instructions}>{instructions}</Text> */}
 
-        <Text style={styles.welcome}>Welcome to React Native!!!</Text>
-        <Text style={styles.instructions}>To get started, edit App.js</Text>
-        <Text style={styles.instructions}>{instructions}</Text>
-
+        {/* <Image source={picUrl} style={{width: 193, height: 110}}/> */}
         {/* <Greeting name='Vasil' /> */}
         {/* <Blink text='This is some text' /> */}
+        {/* <Header>This is a header</Header> */}
+        {/* <Paragraph>This is a paragraph</Paragraph> */}
+        {/* <Dimensions /> */}
+        {/* <Flexbox /> */}
       </View>
     )
   }
