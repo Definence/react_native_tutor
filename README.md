@@ -1,16 +1,14 @@
-# todo_react_native_client
-
-Getting started with react native:
+# Getting started with react native:
 > https://facebook.github.io/react-native/docs/getting-started.html
 
 
-## Commands
+# Commands
 ```
 npm install -g react-native-cli
 react-native init projectName
 ```
 
-## Tags
+# Tags
 ```
 <View></View> - like a div or span, it can be used as a container for other components
 <Text></Text> - a text tag
@@ -28,16 +26,19 @@ Custom buttons:
 <TouchableHighlight />
 ```
 
-#### They should be imported like so:
+### They should be imported like so:
 ```
 import {Text, View} from 'react-native'
 ```
 
-## Other imported objects from 'react-native'
+### Async storate
+> https://github.com/Definence/react_native_tutor/blob/master/ASYNC_STORAGE.md
+
+# Other imported objects from 'react-native'
 
 To see more details try to see appropriate component if exists
 
-#### Platform
+### Platform
 ```
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -52,7 +53,7 @@ And using:
 <Text>{instructions}</Text>
 ```
 
-#### StyleSheet
+### StyleSheet
 ```
 const styles = StyleSheet.create({
   container: {
@@ -62,7 +63,7 @@ const styles = StyleSheet.create({
 })
 ```
 
-#### TextInput
+### TextInput
 ```
 <TextInput
   style={{height: 40}}
@@ -71,7 +72,7 @@ const styles = StyleSheet.create({
 />
 ```
 
-#### Button
+### Button
 ```
 <Button
   onPress={() => {
@@ -81,7 +82,7 @@ const styles = StyleSheet.create({
 />
 ```
 
-#### Alert
+### Alert
 ```
 <Button
   onPress={() => {
@@ -91,14 +92,14 @@ const styles = StyleSheet.create({
 />
 ```
 
-#### ScrollView (skrolling)
+### ScrollView (skrolling)
 ```
 <ScrollView>
   lots of stuff
 </ScrollView>
 ```
 
-#### ViewPagerAndroid (several pages)
+### ViewPagerAndroid (several pages)
 ```
 <ViewPagerAndroid
   style={styles.viewPager}
@@ -112,7 +113,7 @@ const styles = StyleSheet.create({
 </ViewPagerAndroid>
 ```
 
-#### FlatList (list)
+### FlatList (list)
 ```
 <FlatList
   data={[
@@ -129,7 +130,7 @@ const styles = StyleSheet.create({
 />
 ```
 
-#### SectionList (list with sections)
+### SectionList (list with sections)
 ```
 <SectionList
   sections={[
