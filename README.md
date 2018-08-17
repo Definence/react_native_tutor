@@ -37,7 +37,7 @@ import {Text, View} from 'react-native'
 
 To see more details try to see appropriate component if exists
 
-#### Platform:
+#### Platform
 ```
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -52,7 +52,7 @@ And using:
 <Text>{instructions}</Text>
 ```
 
-#### StyleSheet:
+#### StyleSheet
 ```
 const styles = StyleSheet.create({
   container: {
@@ -91,14 +91,14 @@ const styles = StyleSheet.create({
 />
 ```
 
-#### ScrollView
+#### ScrollView (skrolling)
 ```
 <ScrollView>
   lots of stuff
 </ScrollView>
 ```
 
-#### ViewPagerAndroid
+#### ViewPagerAndroid (several pages)
 ```
 <ViewPagerAndroid
   style={styles.viewPager}
@@ -110,4 +110,34 @@ const styles = StyleSheet.create({
     <Text>Second page</Text>
   </View>
 </ViewPagerAndroid>
+```
+
+#### FlatList (list)
+```
+<FlatList
+  data={[
+    {key: 'Devin'},
+    {key: 'Jackson'},
+    {key: 'James'},
+    {key: 'Joel'},
+    {key: 'John'},
+    {key: 'Jillian'},
+    {key: 'Jimmy'},
+    {key: 'Julie'}
+  ]}
+  renderItem={({item}) => <Text style={styles.item}>{item.key}</Text>}
+/>
+```
+
+#### SectionList (list with sections)
+```
+<SectionList
+  sections={[
+    {title: 'D letter', data: ['Devin']},
+    {title: 'J letter', data: ['Jackson', 'James', 'Jillian', 'Jimmy', 'Joel', 'John', 'Julie']}
+  ]}
+  renderItem={({item}) => <Text style={styles.item}>{item}</Text>}
+  renderSectionHeader={({section}) => <Text style={styles.sectionHeader}>{section.title}</Text>}
+  keyExtractor={(item, index) => index}
+/>
 ```

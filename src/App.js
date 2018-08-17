@@ -12,6 +12,8 @@ import BasicButton from './components/BasicButton'
 import Touchables from './components/Touchables'
 import BasicScrollView from './components/BasicScrollView'
 import Pager from './components/Pager'
+import FlatListBasics from './components/FlatListBasics'
+import SectionListBasics from './components/SectionListBasics'
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -45,6 +47,8 @@ export default class App extends Component<Props> {
         {/* <Touchables/> */}
         {/* <BasicScrollView/> */}
         {/* <Pager/> */}
+        {/* <FlatListBasics/> */}
+        {/* <SectionListBasics/> */}
       </View>
     )
   }
